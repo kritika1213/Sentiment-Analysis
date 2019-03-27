@@ -17,7 +17,4 @@ There are 5 columns with missing data.
 *	Department Name : It’s a Categorical variable and representing Sub category of clothing, has 6 categories.
 *	Class Name : It’s a Categorical variable which is further division of department category  and it has 20 categories.
 
-Link of Kaggle Dataset:- 
-```
-https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
-```
+
