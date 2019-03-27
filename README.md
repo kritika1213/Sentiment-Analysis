@@ -2,7 +2,7 @@
 Sentiment Analysis will enable the organizations to understand the reactions of their customer-base for a particular product or service.
 
 ### Customer Text Review Analysis
-The dataset has been obtained from Kaggle which belongs to the brand `Angle of the North`
+The dataset has been obtained from Kaggle which belongs to the high end Brand 
 The dataset includes 23486 rows and 10 feature variables. Each row corresponds to a customer review corresponding to the outfit bought.
 There are 5 columns with missing data.
 ## Below is the snippet of the our dataset variable:-
